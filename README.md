@@ -24,6 +24,7 @@ Each letter of the output may be printed in either uppercase or lowercase, i.e, 
 1 ≤ T ≤ 10^4
  
 1 ≤ N, M ≤ 100
+
 Sample 1:
 ## Input
 2
